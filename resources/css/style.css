@@ -21,9 +21,13 @@ main a {
     margin-bottom: 20px;
 }
 
+p {
+    font-size: 21px;
+    color: gray;
+}
+
 footer {
     text-align: right;
-    color: gray;
 }
 
 img[src*="phone"] {
