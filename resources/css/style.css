@@ -18,6 +18,7 @@ main a {
     color: aquamarine;
     font-size: 16px;
     display: block;
+    margin-bottom: 20px;
 }
 
 footer {
